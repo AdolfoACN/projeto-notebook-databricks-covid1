@@ -7,7 +7,8 @@ Integração simplificada, utilizando o Databricks na Azure.
 
 Aplicação da arquitetura "Medallion" dentro do Databricks usando Spark-SQL e Pyspark:
 
-Utilização dos dados da COVID 19.
+Utilização dos dados da COVID 19 no Brasil. ( Kaggle )
+Link: https://www.kaggle.com/datasets/cprete/covid19-open-datasets-for-brazil
 
 
 ![image](https://github.com/user-attachments/assets/0bb66d73-72a2-40c7-8d01-cd3bb3de70d5)
